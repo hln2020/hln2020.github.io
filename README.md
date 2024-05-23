@@ -48,20 +48,20 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 # Work Experience
 
-## **International Data Team Manager @ Haver Analytics, Inc., New York, NY (Mar. 2020 – Present)**
+## **International Data Team Manager @ Haver Analytics, New York, NY (Mar. 2020 – Present)**
 - Lead a team of 4 data managers to manage 22 macroeconomic and financial databases covering Asia-Pacific.
 - Utilized **OpenAI’s API** and **MySQL** to create a Q&A program on internal knowledge using embeddings-based search.
 - Developed custom datasets for institutional clients, driving business decisions with accurate data.
 - Directed the team’s automation effort, raising automation level from **3% to 42%** of ETL processes.
 - Reviewed data additions, cleanups, methodology change implementations, and automation.
 
-## **Senior International Data Manager @ Haver Analytics, Inc., New York, NY (Mar. 2019 – Mar. 2020)**
+## **Senior International Data Manager @ Haver Analytics, New York, NY (Mar. 2019 – Mar. 2020)**
 - Undertook team management responsibilities, including assigning and distributing workflow among members.
 - Guided the team on complex client inquiries and projects requiring deep macroeconomic subject matter expertise.
 - Researched documentation published by economic institutions, leading to increased insight in economic data-reporting procedures and changes in statistical classifications and methodologies.
 - Collaborated closely with the Development team to provide product and program improvement recommendations.
 
-## **International Data Manager @ Haver Analytics, Inc., New York, NY (Nov. 2016 – Mar. 2019)**
+## **International Data Manager @ Haver Analytics, New York, NY (Nov. 2016 – Mar. 2019)**
 - Integrated 180+ macroeconomic datasets covering emerging economies in the Asia-Pacific region.
 - Ensured data integrity and update timeliness through statistical analysis and automation.
 - Created, implemented, and streamlined ETL procedures for data acquisition and updates.
