@@ -10,14 +10,13 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 # Data Science Experience
 
-## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
-[Github Repo](https://github.com/hln2020/Predicting-Obesity-Lifestyle)  
-- Conducted data preprocessing and exploratory analysis using **Pandas**, **Matplotlib**, and **Seaborn** to visualize factors affecting obesity such as age, sex, caloric consumption, physical activities.
-- Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
-- Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
-
-![Visualization](/img/box_weight.png)
-![Visualization](/img/hist_weight.png)
+## **Memorial Sloan Kettering Cancer Center**
+**Data Science Researcher (Sep. 2023 - Dec. 2023)**
+### Cancer Drug Response Prediction through Knowledge Graph Embedding & Geometric Deep Learning
+[Report](https://github.com/hln2020/TxGNN/blob/main/Group_40_Final_Report_NYU.pdf)  
+- Constructed a knowledge graph of 3,217,941 triplets by synthesizing clinical & mutational profiles for 7 cancer types.
+- Implemented **RotatE**, a knowledge graph embedding model, for graph augmentation & drug prediction.
+- Executed the **TxGNN** architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
 [Github Repo](https://github.com/hln2020/state-backed-io)  
@@ -28,14 +27,14 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 ![Visualization](/img/tweet_language.png)
 ![Visualization](/img/tweet_location.png)
 
+## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
+[Github Repo](https://github.com/hln2020/Predicting-Obesity-Lifestyle)  
+- Conducted data preprocessing and exploratory analysis using **Pandas**, **Matplotlib**, and **Seaborn** to visualize factors affecting obesity such as age, sex, caloric consumption, physical activities.
+- Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
+- Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
 
-## **Memorial Sloan Kettering Cancer Center**
-**Data Science Researcher (Sep. 2023 - Dec. 2023)**
-### Cancer Drug Response Prediction through Knowledge Graph Embedding & Geometric Deep Learning
-[Report](https://github.com/hln2020/TxGNN/blob/main/Group_40_Final_Report_NYU.pdf)  
-- Constructed a knowledge graph of 3,217,941 triplets by synthesizing clinical & mutational profiles for 7 cancer types.
-- Implemented **RotatE**, a knowledge graph embedding model, for graph augmentation & drug prediction.
-- Executed the **TxGNN** architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
+![Visualization](/img/box_weight.png)
+![Visualization](/img/hist_weight.png)
 
 ## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models (Mar 2023 - May 2023)**
 [Github Repo](https://github.com/hln2020/gpt-cognitive-capabilities)  
