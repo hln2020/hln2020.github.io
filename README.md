@@ -25,7 +25,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 - Created tweet embeddings using **OpenAI’s API** and applied **K-means clustering** to identify themes and extract narratives within state-backed information operations.
 - Fine-tuned a pre-trained **LLM** to classify tweets belonging to such operations, achieving a 97% validation accuracy.
 
-![Visualization](/img/tweet_by_id.png)
+![Visualization](/img/tweet_language.png)
 ![Visualization](/img/tweet_location.png)
 
 
