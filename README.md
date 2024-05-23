@@ -34,6 +34,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 - Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
 
 ![Visualization](/img/box_weight.png)
+![Visualization](/img/gender.png)
 ![Visualization](/img/hist_weight.png)
 
 ## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models (Mar 2023 - May 2023)**
