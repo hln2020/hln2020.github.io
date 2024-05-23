@@ -34,7 +34,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 - Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
 - Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
 
-![Visualization](/img/box_weight.png)
+![Visualization](/img/age.png)
 
 ![Visualization](/img/gender.png)
 
