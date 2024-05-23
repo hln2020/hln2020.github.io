@@ -15,8 +15,8 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 ### Cancer Drug Response Prediction through Knowledge Graph Embedding & Geometric Deep Learning
 [Report](https://github.com/hln2020/TxGNN/blob/main/Group_40_Final_Report_NYU.pdf)  
 - Constructed a knowledge graph of 3,217,941 triplets by synthesizing clinical & mutational profiles for 7 cancer types.
-- Implemented **RotatE**, a knowledge graph embedding model, for graph augmentation & drug prediction.
-- Executed the **TxGNN** architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
+- Implemented RotatE, a **knowledge graph embedding** model, for graph augmentation & drug prediction.
+- Executed the TxGNN architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
 [Github Repo](https://github.com/hln2020/state-backed-io)  
