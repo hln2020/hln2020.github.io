@@ -2,36 +2,12 @@
 
 ### Technical Skills: Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, HPC, Singularity, SLURM, LaTeX
 
-## Education						       		
+# Education						       		
 - M.S., Data Science	| New York University (_May 2024_)	 			        		
 - B.A., Economics | Lawrence University (_Jun 2016_)
 - B.A., Mathematics | Lawrence University (_Jun 2016_)
 
-## Work Experience
-
-## **International Data Team Manager @ Haver Analytics, Inc., New York, NY (Mar. 2020 – Present)**
-- Lead a team of 4 data managers to manage 22 macroeconomic and financial databases covering Asia-Pacific.
-- Utilized **OpenAI’s API** and **MySQL** to create a Q&A program on internal knowledge using embeddings-based search.
-- Developed custom datasets for institutional clients, driving business decisions with accurate data.
-- Directed the team’s automation effort, raising automation level from **3% to 42%** of ETL processes.
-- Reviewed data additions, cleanups, methodology change implementations, and automation.
-
-## **Senior International Data Manager @ Haver Analytics, Inc., New York, NY (Mar. 2019 – Mar. 2020)**
-- Undertook team management responsibilities, including assigning and distributing workflow among members.
-- Guided the team on complex client inquiries and projects requiring deep macroeconomic subject matter expertise.
-- Researched documentation published by economic institutions, leading to increased insight in economic data-reporting procedures and changes in statistical classifications and methodologies.
-- Collaborated closely with the Development team to provide product and program improvement recommendations.
-
-## **International Data Manager @ Haver Analytics, Inc., New York, NY (Nov. 2016 – Mar. 2019)**
-- Integrated 180+ macroeconomic datasets covering emerging economies in the Asia-Pacific region.
-- Ensured data integrity and update timeliness through statistical analysis and automation.
-- Created, implemented, and streamlined ETL procedures for data acquisition and updates.
-- Utilized **Excel**, **EViews**, **Python**, and proprietary software to process and manipulate time series data.
-- Provided clients with technical support and advised them on data analysis functions and optimal methods of tracking data.
-
-## Projects
-
-# DATA SCIENCE EXPERIENCE
+# Data Science Experience
 
 ## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
 [Github Repo](https://github.com/hln2020/Predicting-Obesity-Lifestyle)  
@@ -58,3 +34,25 @@
 - Conducted vignette-based investigations on **GPT-3.5** and **GPT-4’s** cognitive capabilities in decision-making, information search, deliberation, and causal reasoning using canonical scenarios from cognitive psychology.
 - Applied prompt engineering on **GPT-3.5** and evaluated **GPT-3.5** and **GPT-4’s** performance compared to GPT-3.
 - Identified the ability to handle adversaries as a weakness for current GPT models for future research purposes.
+
+# Work Experience
+
+## **International Data Team Manager @ Haver Analytics, Inc., New York, NY (Mar. 2020 – Present)**
+- Lead a team of 4 data managers to manage 22 macroeconomic and financial databases covering Asia-Pacific.
+- Utilized **OpenAI’s API** and **MySQL** to create a Q&A program on internal knowledge using embeddings-based search.
+- Developed custom datasets for institutional clients, driving business decisions with accurate data.
+- Directed the team’s automation effort, raising automation level from **3% to 42%** of ETL processes.
+- Reviewed data additions, cleanups, methodology change implementations, and automation.
+
+## **Senior International Data Manager @ Haver Analytics, Inc., New York, NY (Mar. 2019 – Mar. 2020)**
+- Undertook team management responsibilities, including assigning and distributing workflow among members.
+- Guided the team on complex client inquiries and projects requiring deep macroeconomic subject matter expertise.
+- Researched documentation published by economic institutions, leading to increased insight in economic data-reporting procedures and changes in statistical classifications and methodologies.
+- Collaborated closely with the Development team to provide product and program improvement recommendations.
+
+## **International Data Manager @ Haver Analytics, Inc., New York, NY (Nov. 2016 – Mar. 2019)**
+- Integrated 180+ macroeconomic datasets covering emerging economies in the Asia-Pacific region.
+- Ensured data integrity and update timeliness through statistical analysis and automation.
+- Created, implemented, and streamlined ETL procedures for data acquisition and updates.
+- Utilized **Excel**, **EViews**, **Python**, and proprietary software to process and manipulate time series data.
+- Provided clients with technical support and advised them on data analysis functions and optimal methods of tracking data.
