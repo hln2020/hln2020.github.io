@@ -1,9 +1,10 @@
 # Data Scientist
 
-### Technical Skills: Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, HPC, Singularity, SLURM, LaTeX
+### Technical Skills
+Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, HPC, Singularity, SLURM, LaTeX
 
 # Education						       		
-- M.S., Data Science	| New York University (_May 2024_)	 			        		
+- M.S., Data Science | New York University (_May 2024_)	 			        		
 - B.A., Economics | Lawrence University (_Jun 2016_)
 - B.A., Mathematics | Lawrence University (_Jun 2016_)
 
@@ -14,6 +15,9 @@
 - Conducted data preprocessing and exploratory analysis using **Pandas**, **Matplotlib**, and **Seaborn** to visualize factors affecting obesity such as age, sex, caloric consumption, physical activities.
 - Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
 - Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
+
+![Visualization](/img/box_weight.png)
+![Visualization](/img/hist_weight.png)
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
 [Github Repo](https://github.com/hln2020/state-backed-io)  
