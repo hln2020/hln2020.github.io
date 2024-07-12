@@ -10,11 +10,6 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 # Data Science Experience
 
-## **Video Frame Prediction & Image Segmentation Using Generative Adversarial Network & U-Net (Mar. 2024 - May. 2024)**
-[Github Repo](https://github.com/hln2020/computer-vision)  
-- Trained FutureGAN, a progressively growing generative adversarial network (GAN), on 13K videos to predict video frames on High Performance Computing cluster, achieving a MSE of 0.0069 on validation set
-- Collaborated with teammates on implementation of U-Net, a convolutional neural network developed for image segmentation, to generate segmentation masks for objects in generated video frames
-
 ## **Memorial Sloan Kettering Cancer Center**
 **Data Science Researcher (Sep. 2023 - Dec. 2023)**
 ### Cancer Drug Response Prediction through Knowledge Graph Embedding & Geometric Deep Learning
@@ -44,6 +39,11 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 ![Visualization](/img/gender.png)
 
 ![Visualization](/img/hist_weight.png)
+
+## **Video Frame Prediction & Image Segmentation Using Generative Adversarial Network & U-Net (Mar. 2024 - May. 2024)**
+[Github Repo](https://github.com/hln2020/computer-vision)  
+- Trained FutureGAN, a progressively **growing generative adversarial network** (GAN), on 13K videos to predict video frames on GPU, achieving a **MSE** of 0.0069 on validation set
+- Collaborated with teammates on implementation of U-Net, a **convolutional neural network** generating segmentation masks for objects in predicted video frames
 
 ## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models (Mar 2023 - May 2023)**
 [Github Repo](https://github.com/hln2020/gpt-cognitive-capabilities)  
