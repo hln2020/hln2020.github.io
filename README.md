@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Technical Skills
-Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, HPC, Singularity, SLURM, LaTeX
+Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, Git, HPC, SLURM, Command-line interface, Lightning AI Studio, Visual Studio Code
 
 # Education						       		
 - M.S., Data Science | New York University (_May 2024_)	 			        		
