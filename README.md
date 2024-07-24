@@ -18,6 +18,9 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 - Implemented RotatE, a **knowledge graph embedding** model, for graph augmentation & drug prediction.
 - Executed the TxGNN architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
 
+![Visualization](/img/TCGA.png)
+
+
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
 [Github Repo](https://github.com/hln2020/state-backed-io)  
 - Utilized **Matplotlib**, **Pandas**, **Numpy** in Python to drive understanding of Twitter’s user behavior such as location, language, percentage of tweets by user ID.
