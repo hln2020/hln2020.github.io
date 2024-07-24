@@ -28,7 +28,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 ![Visualization](/img/tweet_location.png)
 
-![Visualization](/img/theme_extraction.png)
+![Visualization](/img/Theme_extraction.png)
 
 
 ## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
