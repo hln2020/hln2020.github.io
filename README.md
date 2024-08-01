@@ -22,7 +22,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
-[Github Repo](https://github.com/hln2020/state-backed-io)  
+[Link to Project](https://github.com/hln2020/state-backed-io)  
 - Utilized **Matplotlib**, **Pandas**, **Numpy** in Python to drive understanding of Twitter’s user behavior such as location, language, percentage of tweets by user ID.
 - Created tweet embeddings using **OpenAI’s API** and applied **K-means clustering** to identify themes and extract narratives within state-backed information operations.
 - Fine-tuned a pre-trained **LLM** to classify tweets belonging to such operations, achieving a 97% validation accuracy.
@@ -35,7 +35,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 
 ## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
-[Github Repo](https://github.com/hln2020/Predicting-Obesity-Lifestyle)  
+[Link to Project]([https://github.com/hln2020/Predicting-Obesity-Lifestyle](https://github.com/hln2020/Predicting-Obesity-Lifestyle/blob/master/Final%20Project.ipynb))  
 - Conducted data preprocessing and exploratory analysis using **Pandas**, **Matplotlib**, and **Seaborn** to visualize factors affecting obesity such as age, sex, caloric consumption, physical activities.
 - Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
 - Achieved a 79% accuracy in identifying critical factors contributing to obesity using **logistic regression**.
