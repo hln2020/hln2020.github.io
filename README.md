@@ -1,24 +1,14 @@
-# Data Scientist
+# Senior Data Scientist
 
 ### Technical Skills
-Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tableau, Git, HPC, SLURM, Command-line interface, Lightning AI Studio, Visual Studio Code
+Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Hugging Face, Prompt Engineering, In-Context Learning, SQL, MongoDB, Tableau, Git, Kubernetes, Rancher, CI/CD Pipelines, VSCode, PyCharm, WSL
 
 # Education						       		
 - M.S., Data Science | New York University (_May 2024_)	 			        		
 - B.A., Economics | Lawrence University (_Jun 2016_)
 - B.A., Mathematics | Lawrence University (_Jun 2016_)
 
-# Data Science Experience
-
-## **Memorial Sloan Kettering Cancer Center**
-**Data Science Researcher (Sep. 2023 - Dec. 2023)**
-### Cancer Drug Response Prediction through Knowledge Graph Embedding & Geometric Deep Learning
-[Report](https://github.com/hln2020/TxGNN/blob/main/Group_40_Final_Report_NYU.pdf)  
-- Constructed a knowledge graph of 3,217,941 triplets by synthesizing clinical & mutational profiles for 7 cancer types.
-- Implemented RotatE, a **knowledge graph embedding** model, for graph augmentation & drug prediction.
-- Executed the TxGNN architecture in **PyTorch** on NYU High Performance Computing clusters to predict triplets and generate therapeutic treatment recommendations for cancer patients, achieving 88% **AUROC**.
-
-![Visualization](/img/TCGA.png)
+# Data Science Projects
 
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
@@ -46,10 +36,7 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 ![Visualization](/img/hist_weight.png)
 
-## **Video Frame Prediction & Image Segmentation Using Generative Adversarial Network & U-Net (Mar. 2024 - May. 2024)**
-[Github Repo](https://github.com/hln2020/computer-vision)  
-- Trained FutureGAN, a progressively **growing generative adversarial network** (GAN), on 13K videos to predict video frames on GPU, achieving a **MSE** of 0.0069 on validation set
-- Collaborated with teammates on implementation of U-Net, a **convolutional neural network** generating segmentation masks for objects in predicted video frames
+
 
 ## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models (Mar 2023 - May 2023)**
 [Github Repo](https://github.com/hln2020/gpt-cognitive-capabilities)  
@@ -59,7 +46,13 @@ Python (PyTorch/Matplotlib/NumPy/Pandas/SciPy/scikit-learn/seaborn), SQL, Tablea
 
 # Work Experience
 
-## **International Data Team Manager @ Haver Analytics, New York, NY (Mar. 2020 – Present)**
+## **Senior Data Scientist @ US AI, North Bethesda, MD (Sep. 2024 – Present)**
+- Developed and deployed end-to-end AI solutions for cybersecurity automation using Hugging Face Transformers, prompt engineering & templating, custom data pipelines, and MongoDB.
+- Integrated Retrieval-Augmented Generation (RAG) into US AI’s codeless platform with pgvector and LlamaIndex, leveraging object-oriented Python for scalable architecture.
+- Led analytics and beta testing of Metabase dashboards, creating interactive reports with custom MongoDB queries.
+- Collaborated with developers and the design team to design and implement AI-driven platform features, enhancing functionality and system integration.
+
+## **International Data Team Manager @ Haver Analytics, New York, NY (Mar. 2020 – Sep 2024)**
 - Lead a team of 4 data managers to manage 22 macroeconomic and financial databases covering Asia-Pacific.
 - Utilized **OpenAI’s API** and **MySQL** to create a Q&A program on internal knowledge using embeddings-based search.
 - Developed custom datasets for institutional clients, driving business decisions with accurate data.
