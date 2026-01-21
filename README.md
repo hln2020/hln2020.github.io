@@ -11,7 +11,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 # Data Science Projects
 
 
-## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models (Sep. 2023 - Dec. 2023)**
+## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models**
 [GitHub Repo](https://github.com/hln2020/state-backed-io)  
 - Utilized **Matplotlib**, **Pandas**, **Numpy** in Python to drive understanding of Twitter’s user behavior such as location, language, percentage of tweets by user ID.
 - Created tweet embeddings using **OpenAI’s API** and applied **K-means clustering** to identify themes and extract narratives within state-backed information operations.
@@ -24,7 +24,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 ![Visualization](/img/Theme_extraction.png)
 
 
-## **Predicting Obesity from Lifestyle Characteristics of Latin American Population (Sep. 2022 - Dec 2022)**
+## **Predicting Obesity from Lifestyle Characteristics of Latin American Population**
 [Link to Project](https://github.com/hln2020/Predicting-Obesity-Lifestyle/blob/master/Final%20Project.ipynb)
 - Conducted data preprocessing and exploratory analysis using **Pandas**, **Matplotlib**, and **Seaborn** to visualize factors affecting obesity such as age, sex, caloric consumption, physical activities.
 - Applied hypothesis testing using **Chi-Square** and **Mann-Whitney U** tests to perform feature selection.
@@ -38,7 +38,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 
 
 
-## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models (Mar 2023 - May 2023)**
+## **Large Language Models’ Cognitive Capabilities: A Study on OpenAI’s GPT Models**
 [Github Repo](https://github.com/hln2020/gpt-cognitive-capabilities)  
 - Conducted vignette-based investigations on **GPT-3.5** and **GPT-4’s** cognitive capabilities in decision-making, information search, deliberation, and causal reasoning using canonical scenarios from cognitive psychology.
 - Applied prompt engineering on **GPT-3.5** and evaluated **GPT-3.5** and **GPT-4’s** performance compared to GPT-3.
