@@ -1,7 +1,7 @@
 # Senior Data Scientist
 
 ### Technical Skills
-Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Hugging Face, Prompt Engineering, In-Context Learning, SQL, MongoDB, Tableau, Git, Kubernetes, Rancher, CI/CD Pipelines, VSCode, PyCharm, WSL
+Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Hugging Face, Prompt Engineering, In-Context Learning, SQL, MongoDB, S3, Tableau, Git, Kubernetes, Rancher, CI/CD Pipelines, VSCode, PyCharm, WSL
 
 # Education						       		
 - M.S., Data Science | New York University (_May 2024_)	 			        		
