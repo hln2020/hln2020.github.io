@@ -12,11 +12,9 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 
 ## **Fine-Tuning vs. Retrieval-Augmented Generation: Choosing the Right Approach for LLM Applications**
 
-- Compared LoRA fine-tuning approaches (continued pretraining vs. instruction fine-tuning) on Phi-3.5 Mini Instruct for out-of-distribution Q&A
-
-- Built and evaluated RAG pipelines using e5-large-v2 and all-mpnet-base-v2 embeddings, analyzing top-k retrieval and metadata filtering strategies
-
-- Improved RAG performance by introducing hybrid retrieval (BM25 + embedding search), increasing retrieval recall by 50% and outperforming fine-tuning approaches
+- Evaluated LoRA fine-tuning strategies (continued pretraining vs. instruction tuning) for Phi-3.5 Mini Instruct on domain-specific Q&A, using 55,625 pages of documents published after the model's knowledge cutoff
+- Designed and benchmarked RAG pipelines with multiple embedding models (e5-large-v2, all-mpnet-base-v2), optimizing retrieval through top-k analysis and metadata filtering
+- Improved answer accuracy by 50% through hybrid retrieval (BM25 + semantic embeddings), surpassing both baseline RAG and fine-tuning approaches
 
 ![Visualization](/img/mpnet-false.png)
 ![Visualization](/img/mpnet-true.png)
