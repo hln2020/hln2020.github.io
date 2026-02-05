@@ -10,6 +10,21 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 
 # Data Science Projects
 
+## **Fine-Tuning vs. Retrieval-Augmented Generation: Choosing the Right Approach for LLM Applications**
+
+- Compared LoRA fine-tuning approaches (continued pretraining vs. instruction fine-tuning) on Phi-3.5 Mini Instruct for out-of-distribution Q&A
+
+- Built and evaluated RAG pipelines using e5-large-v2 and all-mpnet-base-v2 embeddings, analyzing top-k retrieval and metadata filtering strategies
+
+- Improved RAG performance by introducing hybrid retrieval (BM25 + embedding search), increasing retrieval recall by 50% and outperforming fine-tuning approaches
+
+![Visualization](/img/mpnet-false.png)
+![Visualization](/img/mpnet-true.png)
+![Visualization](/img/e5-false.png)
+![Visualization](/img/e5-true.png)
+![Visualization](/img/overall.png)
+![Visualization](/img/dense-hybrid.png)
+
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models**
 [GitHub Repo](https://github.com/hln2020/state-backed-io)  
