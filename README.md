@@ -15,7 +15,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 - Developed end-to-end RAG and fine-tuning pipelines for a domain-specific chatbot built on **Phi-3.5 Mini Instruct**, incorporating 55,625 pages of post–knowledge cutoff documentation.
 - Architected and optimized retrieval pipelines using **e5-large-v2** and **all-mpnet-base-v2** embeddings, selecting the optimal strategy through top-k evaluation, metadata filtering, and latency profiling.
 - Conducted comparative benchmarking of RAG vs. LoRA-based fine-tuning (continued pretraining and instruction tuning), evaluating factual accuracy, inference latency, and deployment complexity; recommended RAG as the primary strategy due to higher precision and lower operational overhead.
-- Further improved RAG by implementing a hybrid retrieval architecture (BM25 + dense semantic search) that improved factual accuracy by 50% compared to a baseline dense-only RAG system.
+- Further improved RAG performance by implementing hybrid retrieval (BM25 + dense semantic search) that improved factual accuracy by 50% compared to a baseline dense-only RAG system.
 
 ![Visualization](/img/mpnet-false.png)
 ![Visualization](/img/mpnet-true.png)
