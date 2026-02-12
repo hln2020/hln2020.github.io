@@ -12,10 +12,10 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 
 ## **Fine-Tuning vs. Retrieval-Augmented Generation: Choosing the Right Approach for LLM Applications**
 
-- Developed RAG and fine-tuning pipelines for domain-specific chatbot using _Phi-3.5 Mini Instruct_ on 55,625 pages of documentation released after model's knowledge cutoff.
-- Architected RAG pipelines using _e5-large-v2_ and _all-mpnet-base-v2_ embeddings, selecting optimal retrieval strategy through top-k analysis, metadata filtering, and latency profiling.
-- Implemented hybrid retrieval (BM25 + semantic search) that improved factual accuracy by 50% over baseline RAG.
-- Benchmarked RAG vs. LoRA fine-tuning strategies (continued pretraining vs. instruction tuning) across factual accuracy, deployment overhead, and inference latency, recommending RAG as the primary strategy due to superior precision and lower operational complexity.
+- Developed end-to-end RAG and fine-tuning pipelines for a domain-specific chatbot built on **Phi-3.5 Mini Instruct**, incorporating 55,625 pages of post–knowledge cutoff documentation.
+- Architected and optimized retrieval pipelines using **e5-large-v2** and **all-mpnet-base-v2** embeddings, selecting the optimal strategy through top-k evaluation, metadata filtering, and latency profiling.
+- Implemented a hybrid retrieval architecture (BM25 + dense semantic search) that improved factual accuracy by 50% compared to a baseline dense-only RAG system.
+- Conducted comparative benchmarking of RAG vs. LoRA-based fine-tuning (continued pretraining and instruction tuning), evaluating factual accuracy, inference latency, and deployment complexity; recommended RAG as the primary strategy due to higher precision and lower operational overhead.
 
 ![Visualization](/img/mpnet-false.png)
 ![Visualization](/img/mpnet-true.png)
