@@ -12,8 +12,8 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 
 ## **Fine-Tuning vs. Retrieval-Augmented Generation: Choosing the Right Approach for LLM Applications**
 
-- Developed retrieval and fine-tuning pipelines for domain-specific chatbot using Phi-3.5 Mini Instruct on 55,625 pages of documentation released after model's knowledge cutoff.
-- Architected RAG pipelines using e5-large-v2 and all-mpnet-base-v2 embeddings, optimizing retrieval performance through top-k analysis, metadata filtering, and latency profiling.
+- Developed RAG and fine-tuning pipelines for domain-specific chatbot using _Phi-3.5 Mini Instruct_ on 55,625 pages of documentation released after model's knowledge cutoff.
+- Architected RAG pipelines using _e5-large-v2_ and _all-mpnet-base-v2_ embeddings, selecting optimal retrieval strategy through top-k analysis, metadata filtering, and latency profiling.
 - Implemented hybrid retrieval (BM25 + semantic search) that improved factual accuracy by 50% over baseline RAG.
 - Benchmarked RAG vs. LoRA fine-tuning strategies (continued pretraining vs. instruction tuning) across factual accuracy, deployment overhead, and inference latency, recommending RAG as the primary strategy due to superior precision and lower operational complexity.
 
