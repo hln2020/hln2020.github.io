@@ -21,8 +21,8 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 ![Visualization](/img/mpnet-true.png)
 ![Visualization](/img/e5-false.png)
 ![Visualization](/img/e5-true.png)
-![Visualization](/img/overall.png)
 ![Visualization](/img/dense_hybrid.png)
+![Visualization](/img/overall.png)
 
 
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models**
