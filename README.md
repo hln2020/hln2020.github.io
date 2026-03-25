@@ -38,6 +38,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 ![Visualization](/img/credit_limit_by_default_status.png)
 ![Visualization](/img/default_rate_by_educ.png)
 ![Visualization](/img/pr_comparison.png)
+![Visualization](/img/logistic_regression_classification_report.png)
 ![Visualization](/img/xgboost_classification_report.png)
 ![Visualization](/img/neural_network_classification_report.png)
 ![Visualization](/img/mean_shap.png)
