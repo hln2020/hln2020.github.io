@@ -25,6 +25,24 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 ![Visualization](/img/dense_hybrid.png)
 
 
+## **Credit Default Prediction: Machine Learning Approaches with Benchmark Comparisons**
+
+- Trained and compared three models (Logistic Regression, XGBoost, Neural Network) on the UCI Credit Card Default dataset to predict borrower default risk
+- Engineered 15+ features from raw payment/billing history (utilization ratios, delay counts, bill trends) and applied class-weight balancing to address class imbalance
+- Ran Optuna Bayesian hyperparameter search to tune both neural network architecture and XGBoost across 50 trials, optimizing for AUC-PR to handle class imbalance
+- Identified XGBoost to have the best performance (AUC-ROC: 0.783, AUC-PR: 0.560) against a 22% precision-recall baseline, with Neural Network close behind (AUC-PR: 0.559)
+- Optimized classification thresholds per model via F1 scoring
+- Used SHAP to identify number of late payments in the past 6 months, most recent repayment status, and maximum months overdue as the top predictors of credit default in XGBoost
+
+![Visualization](/img/class_imbalance.png)
+![Visualization](/img/credit_limit_by_default_status.png)
+![Visualization](/img/default_rate_by_educ.png)
+![Visualization](/img/pr_comparison.png)
+![Visualization](/img/xgboost_classification_report.png)
+![Visualization](/img/neural_network_classification_report.png)
+![Visualization](/img/mean_shap.png)
+
+
 ## **State-Backed Information Operations Analysis Using Pre-trained Transformer-Based Models**
 [GitHub Repo](https://github.com/hln2020/state-backed-io)  
 - Utilized **Matplotlib**, **Pandas**, **Numpy** in Python to drive understanding of Twitter’s user behavior such as location, language, percentage of tweets by user ID.
