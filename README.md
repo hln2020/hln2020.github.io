@@ -28,7 +28,7 @@ Python (PyTorch, NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn), Huggi
 ## **Credit Default Prediction: Machine Learning Approaches with Benchmark Comparisons**
 
 - Trained and compared three models (Logistic Regression, XGBoost, Neural Network) on the UCI Credit Card Default dataset to predict borrower default risk
-- Engineered 15+ features from raw payment/billing history (utilization ratios, delay counts, bill trends) and applied class-weight balancing to address class imbalance
+- Engineered 15+ features from raw payment/billing history (utilization ratios, delay counts, bill trends) and applied class-weighting to address imbalance without altering data distribution
 - Ran Optuna Bayesian hyperparameter search to tune both neural network architecture and XGBoost across 50 trials, optimizing for AUC-PR to handle class imbalance
 - Identified XGBoost to have the best performance (AUC-ROC: 0.783, AUC-PR: 0.560) against a 22% precision-recall baseline, with Neural Network close behind (AUC-PR: 0.559)
 - Optimized classification thresholds per model via F1 scoring
